@@ -7,4 +7,5 @@ for key, value in dict.items():
     dict2.setdefault(value, []).append(key)
 
 print(dict)
-print((dict2))    
+print((dict2))   
+
